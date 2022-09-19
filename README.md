@@ -1,6 +1,6 @@
 # SFML Tilemap
 
-This is a simple project of a tilemap I created that is free to use
+This is a simple project of a tilemap I created for learning SFML and c++ that is free to use
 #####
 
 # Licence:
